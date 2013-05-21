@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://maratg.com
+title: Marat Garafutdinov
+subtitle: Man, that is a long last name. Anyway - here are some of my thoughts, and some Android code
+author: Marat Garafutdinov.
 simple_search: http://google.com/search
 description:
 
@@ -57,8 +57,11 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+# Gravatar
+gravatar_email: maratoid@gmail.com
+
 # Github repositories
-github_user:
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
