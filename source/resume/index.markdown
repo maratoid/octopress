@@ -23,7 +23,7 @@ I have extensive real-world business experience and an excellent track record in
 
 * * *
 
-#### DevOps engineer at [MTN Satellite Communications](http://www.mtnsat.com) Seattle. (7/2013 – 10/2014)
+#### DevOps engineer at [MTN Satellite Communications](http://www.mtnsat.com) Seattle. (7/2013 – present)
 
   * Designed and implemented test and integration tools for MTN CI pipeline
   * Created a set of scripts/utilities for modeling a MTN ShipCloud in AWS
